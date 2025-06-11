@@ -1,1 +1,1 @@
-This is a nextjs.org project bootstrapped with create-next-app.
+This is a https://nextjs.org/ project bootstrapped with 
